@@ -1,0 +1,14 @@
+{
+  "Data": {
+    "Username": "tomsmith",
+    "Password": "SuperSecretPassword!"
+  },
+  "IncorrectData": {
+    "Username": "IncorrectUsername",
+    "Password": "IncorrectPassword"
+  },
+  "Data2": {
+    "Username": "j2ee",
+    "Password": "j2ee"
+  }
+}
